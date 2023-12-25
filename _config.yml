@@ -2,7 +2,7 @@ title:              Yuri's Notebook
 email:              qiuyu1819@gmail.com
 description:        A place that records my thoughts
 author:             Start Bootstrap
-baseurl:            "/"
+baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://yuriqiu.github.io"
 
 # Social Profiles 
