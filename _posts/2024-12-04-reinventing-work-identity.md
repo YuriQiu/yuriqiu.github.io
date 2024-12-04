@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "如何重塑你的职业身份"
-subtitle: "*Working Identity: Unconventional Strategies for Reinventing Your Career*读后感"
-date: 2024-12-04 23:45:13 -0400
+title: "如何重塑你的职业身份?"
+subtitle: "*Working Identity: Unconventional Strategies for Reinventing Your Career* 读后感"
+date: 2024-12-04
 background: '/img/posts/01.jpg'
 ---
 
