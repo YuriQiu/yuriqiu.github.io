@@ -81,7 +81,7 @@ background: '/img/posts/01.jpg'
    
    书中还提到了一些讲故事的技巧，比如一个故事总有开头、低谷、高潮和结局，叙述这个故事要想清楚自己想要的结局（目的）是什么。不过我认为，比起技巧，如果我们对自己的职业有足够深刻的想法，并且足够真诚和坦诚，无须太多技巧就可以打动对方。物以类聚，人以群分，类似的人总是会聚到一起，彼此欣赏，互相成就。
 
-书中有一段话很打动我，”Don't wait for a cataclysmic moment when the truth is revealed. Use everyday occurrences to find meaning in the changes you are going through. Practice telling and retelling your story. Over time, it will clarify.“ 我和一些人一样，之前遇到难解的问题，总是期待某一刻真相大白，一切都清晰地展现在我眼前。可是慢慢随着经历的事情越多（遇到的问题越来越多），才慢慢明白有些问题是不会被得到解决的，有的事情就是不会有答案，事急则缓，事缓则圆，自有消解。正如书中这句话所说，不要等待真相大白的那一刻（因为往往不会有这么一刻），而是利用日常发生的事情来寻找变化的意义，不断练习讲述我们的故事。随着时间的推移，它将逐渐清晰。
+书中有一段话很打动我，“Don't wait for a cataclysmic moment when the truth is revealed. Use everyday occurrences to find meaning in the changes you are going through. Practice telling and retelling your story. Over time, it will clarify.” 我和一些人一样，之前遇到难解的问题，总是期待某一刻真相大白，一切都清晰地展现在我眼前。可是慢慢随着经历的事情越多（遇到的问题越来越多），才慢慢明白有些问题是不会被得到解决的，有的事情就是不会有答案，事急则缓，事缓则圆，自有消解。正如书中这句话所说，不要等待真相大白的那一刻（因为往往不会有这么一刻），而是利用日常发生的事情来寻找变化的意义，不断练习讲述我们的故事。随着时间的推移，它将逐渐清晰。
 
 写到这里，我突然感慨，其实到什么时候都不会是世界末日，无非是我们愿不愿意接受现实，从当下再出发的问题。我要在这里记录下这个感受，等日后再遇到难题时重温一下，鼓励任何时候自己都有重新出发的勇气。
 
