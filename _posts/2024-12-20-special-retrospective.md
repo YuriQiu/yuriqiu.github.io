@@ -5,7 +5,7 @@ date: 2024-12-10
 background: '/img/posts/07.jpg'
 ---
 
-我喜欢听歌，每首歌都会记录下当时当地的心情和记忆，所以今年的年终回顾除了例行公事的 Retrospective，也想用不一样的方式来记录一下这一年的心情变化。
+我喜欢听歌，每首歌都会记录下当时当地的心情和记忆，所以今年的年终回顾除了例行公事的 [Retrospective](https://docs.google.com/document/d/16xY59jELwDOvYTeu7aGfXlNmjPA8VKBh08GH2FDr6zA/edit?tab=t.0#heading=h.5x0d5h95i329)，也想用不一样的方式来记录一下这一年的心情变化。
 
 - 1 月：金海心 [猫咪森林](https://i.y.qq.com/v8/playsong.html?songid=466822#webchat_redirect)
 
@@ -96,3 +96,7 @@ background: '/img/posts/07.jpg'
 为什么要写上爸爸来看我这一段，因为这为 12 月定下了基调：无论发生什么，家人来了，我都会安然度过今年的最后一个月。
 
 这一年的经历，感觉会是之后很多年后回忆起来都会觉得特别的一年，仅此记录。
+
+附：[2024 End of Year Retrospective Template](https://docs.google.com/document/d/16xY59jELwDOvYTeu7aGfXlNmjPA8VKBh08GH2FDr6zA/edit?tab=t.0#heading=h.5x0d5h95i329) Patrick Kua 提供的个人年终总结模板
+
+Patrick Kua 拥有 20 多年经验，曾担任开发者、技术负责人、顾问、CTO 等角色。目前，他专注于 tech leader 的辅导和培训，感兴趣可看 https://www.patkua.com/ 。
