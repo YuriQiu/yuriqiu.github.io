@@ -29,19 +29,19 @@ background: '/img/posts/02.jpg'
 附上一些照片：
 
 崖月邑
-<p><img src="/img/png/IMG_5700.jpg" alt="alt text" width="50%"></p>
+<p><img src="/img/posts/IMG_5700.jpg" alt="alt text" width="50%"></p>
 
 雪地汉拿山
-<p><img src="/img/png/IMG_6205.jpg" alt="alt text" width="50%"></p>
+<p><img src="/img/posts/IMG_6205.jpg" alt="alt text" width="50%"></p>
 
 涉地可支
-<p><img src="/img/png/IMG_6778.jpg" alt="alt text" width="50%"></p>
+<p><img src="/img/posts/IMG_6778.jpg" alt="alt text" width="50%"></p>
 
 生日快乐
-<p><img src="/img/png/IMG_6463.jpg" alt="alt text" width="50%"></p>
+<p><img src="/img/posts/IMG_6463.jpg" alt="alt text" width="50%"></p>
 
 路过一家小店
-<p><img src="/img/png/IMG_2666.jpg" alt="alt text" width="50%"></p>
+<p><img src="/img/posts/IMG_2666.jpg" alt="alt text" width="50%"></p>
 
 济州岛的特产：橘子
-<p><img src="/img/png/IMG_2730.jpg" alt="alt text" width="50%"></p>
+<p><img src="/img/posts/IMG_2730.jpg" alt="alt text" width="50%"></p>
