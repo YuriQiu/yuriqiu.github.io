@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "2025 1 月读书随记"
-subtitle: "2025 新的一年立的其中一个 flag 就是保持阅读量，以每月为单位输出一些记录，作为一种督促的方法。"
 date: 2025-01-31
 background: '/img/posts/06.jpg'
 ---
