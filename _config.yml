@@ -6,7 +6,7 @@ baseurl:            "/"
 url:                "https://yuriqiu.github.io"
 
 # Social Profiles 
-github_username: YuriQiu 
+github_username: Yuri
 
 # Build settings
 markdown:           kramdown
