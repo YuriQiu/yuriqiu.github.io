@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "2025 3 月 & 4 月读书随记"
-date: 2025-05-01
+subtitle: "迟来的读书笔记。"
+date: 2025-05-09
 background: '/img/posts/17.jpg'
 ---
 
@@ -132,7 +133,7 @@ User Experience“。工作中常遇到“用户视角”这个词，但要怎�
 
 <p><img src="/img/posts/16.jpg" alt="alt text" width="100%"></p>
 
-<p><img src="/img/posts/17.jpg" alt="alt text" width="100%"></p>
+
 
 
 
