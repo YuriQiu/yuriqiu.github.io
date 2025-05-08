@@ -114,8 +114,8 @@ Edward 推荐的书。这本书的一个观点是，谈判的基础是价值，�
 
 - [Shipping Greatness：Practical lessons on building and launching outstanding software learned on the job at Google and Amazon](https://www.amazon.com/Shipping-Greatness-Practical-launching-outstanding/dp/1449336574)
 
-Edward 推荐的书，教人如何做产品。个人最感兴趣的一章是”How to Build a Great
-User Experience“。工作中常遇到“用户视角”这个词，但要怎么理解和定义这个概念、具体工作中如何执行，还是有很多疑问。比如当我接触不了用户，我要怎么了解我的用户？比如都是面向用户，不同工种如产品经理、UX 设计师、文档工程师看待它有哪些共性和区别，有哪些方法论可以借鉴？有时候太抽象的东西就显得很虚，这个话题更期待看到的是实在的案例。
+Edward 推荐的书，教人如何做产品。个人最感兴趣的一章是"How to Build a Great
+User Experience"。工作中常遇到“用户视角”这个词，但要怎么理解和定义这个概念、具体工作中如何执行，还是有很多疑问。比如当我接触不了用户，我要怎么了解我的用户？比如都是面向用户，不同工种如产品经理、UX 设计师、文档工程师看待它有哪些共性和区别，有哪些方法论可以借鉴？有时候太抽象的东西就显得很虚，这个话题更期待看到的是实在的案例。
 
 - [3 小时快学期权](https://books.google.com.hk/books/about/3小时快学期权.html?id=GWHfEAAAQBAJ&redir_esc=y)
 
