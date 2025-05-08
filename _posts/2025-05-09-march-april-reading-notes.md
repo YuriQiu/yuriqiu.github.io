@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "2025 3 月 & 4 月读书随记"
-subtitle: "迟来的读书笔记。"
 date: 2025-05-09
 background: '/img/posts/17.jpg'
 ---
