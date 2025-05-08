@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2025 3 月 & 4 月读书随记"
-subtitle: "迟来的读书笔记。"
+subtitle: "拖延症迟来的读书笔记。"
 date: 2025-05-08
 background: '/img/posts/17.jpg'
 ---
@@ -96,7 +96,7 @@ Edward 推荐的书。这本书的一个观点是，谈判的基础是价值，�
 
 - [Writing for Designers](https://kubie.co/wfd/)
 
-写作若作为一类工作，和它涉及的业务有关。比如，写作和市场营销活动中为 copywriting，对应的 job title 是 copywriter；在产品文档中为技术写作，工作种为 technical writer；在 UX 设计中为 UX writing， 工种为 UX writer。这些文字工作，语言是基本功，但语言背后的思想、观念和策略才是最重要的。
+写作若作为一类工作，和它涉及的业务有关。比如，写作在市场营销活动中为 copywriting，对应的 job title 是 copywriter；在产品文档中为技术写作，工作种为 technical writer；在 UX 设计中为 UX writing， 工种为 UX writer。这些文字工作，语言是基本功，但语言背后的思想、观念和策略才是最重要的。
 
 - [Strategic Writing for UX: Strategic Writing for UX: Drive Engagement, Conversion, and Retention with Every Word](https://www.amazon.com/Strategic-Writing-Engagement-Conversion-Retention/dp/1492049395)
 
@@ -114,14 +114,14 @@ Edward 推荐的书。这本书的一个观点是，谈判的基础是价值，�
 
 - [Shipping Greatness：Practical lessons on building and launching outstanding software learned on the job at Google and Amazon](https://www.amazon.com/Shipping-Greatness-Practical-launching-outstanding/dp/1449336574)
 
-Edward 推荐的书，教人如何做产品。个人最感兴趣的一章是"How to Build a Great
-User Experience"。工作中常遇到“用户视角”这个词，但要怎么理解和定义这个概念、具体工作中如何执行，还是有很多疑问。比如当我接触不了用户，我要怎么了解我的用户？比如都是面向用户，不同工种如产品经理、UX 设计师、文档工程师看待它有哪些共性和区别，有哪些方法论可以借鉴？有时候太抽象的东西就显得很虚，这个话题更期待看到的是实在的案例。
+Edward 推荐的书，教人如何做产品。个人最感兴趣的一章是“How to Build a Great
+User Experience”。工作中常遇到“用户视角”这个词，但要怎么理解和定义这个概念、具体工作中如何执行，还是有很多疑问。比如当我接触不了用户，我要怎么了解我的用户？比如都是面向用户，不同工种如产品经理、UX 设计师、文档工程师看待它有哪些共性和区别，有哪些方法论可以借鉴？有时候太抽象的东西就显得很虚，这个话题更期待看到的是实在的案例。
 
 - [3 小时快学期权](https://books.google.com.hk/books/about/3小时快学期权.html?id=GWHfEAAAQBAJ&redir_esc=y)
 
 朋友推荐。书如其名，新手入门推荐。看这个书感觉回到了高中，我老是算不明白那数字。
 
-最后在这篇笔记末尾附上 Imagine Dragons 演唱会的一些照片，分享我的幸福时刻！因为手机最近在出游的时候丢失（这又是一个故事了），而我本身没有用 iCloud 备份的习惯，找回的手机已经没有当时演唱会的数据，所以这些照片已经是绝唱了。
+最后附上 Imagine Dragons 演唱会的一些照片，分享我的幸福时刻！因为手机最近在出游的时候丢失（这又是一个故事了），而我本身没有用 iCloud 备份的习惯，找回的手机已经没有当时演唱会的数据，所以这些照片已经是绝唱了。
 
 <p><img src="/img/posts/12.jpg" alt="alt text" width="100%"></p>
 
