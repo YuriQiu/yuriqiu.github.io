@@ -38,7 +38,7 @@ Andrew Ng 的书，想了解 AI 相关工作的人都可以看看。摘录一些
   
 深度关系的前提是愿意向对方展示自己的脆弱（self-disclosure & vulnerability）。但这么做是有风险的，所以这本书提到了一个 15% 法则。
 
-<p><img src="/img/posts/11.jpg" alt="alt text" width="100%"></p>
+<p><img src="/img/posts/11.jpg" alt="alt text" width="50%"></p>
 
 每个人都有自己的舒适区（zone of comfort）和危险区（zone of danger）。舒适区里，你会感觉非常安全，说什么做什么都不会考虑太多，而在危险区则相反，你会因为害怕结果不好而绝对不会尝试一些事情。在舒适区和危险区之间还有一个区域：学习区（zone of learning）。学习区里，每一次尝试前，你无法判断结果是好是坏，而任何结果对你来说都是一次学习和了解的过程。当你每次鼓起勇气时，不用 100% 全盘托出，先从 15% 开始。这 15% 用来帮你试探对方的反应如何。如果不如预期，那就及时止损。
 
@@ -52,7 +52,7 @@ Edward 推荐的书。这本书的一个观点是，谈判的基础是价值，�
 
 - [Getting to Yes: Negotiating an agreement without giving in](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)
 
-这也是一本讲谈判的书，同时也是 [Havard Negotionation Project](https://www.pon.harvard.edu/tag/the-harvard-negotiation-project/) 的教材。上面的书提供了一个比较理性的谈判框架，而这本书更适合日常各种矛盾冲突的谈判。
+这也是一本讲谈判的书，同时也是 [Havard negotiation Project](https://www.pon.harvard.edu/tag/the-harvard-negotiation-project/) 的教材。上面的书提供了一个比较理性的谈判框架，而这本书更适合日常各种矛盾冲突的谈判。
 
 作者认为，谈判艰难的原因在于 positional bargaining。简单说，典型的谈判通常是双方选择自己的立场，然后围绕各自的立场讨价还价。这可说得太对了，回顾大多数的沟通问题，即使双方表明就事论事，但最后也会演变为维护各自立场的自尊心之战。人性的本质是很难就事论事。
 
@@ -96,7 +96,7 @@ Edward 推荐的书。这本书的一个观点是，谈判的基础是价值，�
 
 - [Writing for Designers](https://kubie.co/wfd/)
 
-写作若作为一类工作，和它涉及的业务有关。比如，写作和市场营销活动中为 Copywriting，对应的 job title 是 copywriter；在产品文档中为技术写作，工作种为 technical writer；在 UX 设计中为 UX writing， 工种为 UX writer。这些文字工作，语言是基本功，但语言背后的思想、观念和策略才是最重要的。
+写作若作为一类工作，和它涉及的业务有关。比如，写作和市场营销活动中为 copywriting，对应的 job title 是 copywriter；在产品文档中为技术写作，工作种为 technical writer；在 UX 设计中为 UX writing， 工种为 UX writer。这些文字工作，语言是基本功，但语言背后的思想、观念和策略才是最重要的。
 
 - [Strategic Writing for UX: Strategic Writing for UX: Drive Engagement, Conversion, and Retention with Every Word](https://www.amazon.com/Strategic-Writing-Engagement-Conversion-Retention/dp/1492049395)
 
@@ -121,9 +121,7 @@ User Experience“。工作中常遇到“用户视角”这个词，但要怎�
 
 朋友推荐。书如其名，新手入门推荐。看这个书感觉回到了高中，我老是算不明白那数字。
 
-最后在这篇笔记末尾附上 Imagine Dragons 演唱会的一些照片，分享我的幸福时刻！
-
-因为手机最近在出游的时候丢失（这又是一个故事了），而我本身没有用 icloud 备份的习惯，找回的手机已经没有当时演唱会的数据，所以这些照片已经是绝唱了。
+最后在这篇笔记末尾附上 Imagine Dragons 演唱会的一些照片，分享我的幸福时刻！因为手机最近在出游的时候丢失（这又是一个故事了），而我本身没有用 iCloud 备份的习惯，找回的手机已经没有当时演唱会的数据，所以这些照片已经是绝唱了。
 
 <p><img src="/img/posts/12.jpg" alt="alt text" width="100%"></p>
 
