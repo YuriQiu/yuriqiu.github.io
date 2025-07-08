@@ -3,6 +3,7 @@ layout: post
 title: "2025 5 月读书随记"
 date: 2025-06-01
 background: '/img/posts/06.jpg'
+tags: [读书, 随记]
 ---
 
 
