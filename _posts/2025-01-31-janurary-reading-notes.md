@@ -11,7 +11,7 @@ background: '/img/posts/06.jpg'
 
 - [Will You Make Good on Your New Year's Resolution?](https://hbr.org/2025/01/will-you-make-good-on-your-new-years-resolution)
 
-作为 P 人，今年希望看到自己的改变是稍微有计划点，能看到更多事情的实现，这样也会让一年变得充实而有意义点。但是看了一些书和文章，有关 goal setting 的理论眼花缭乱，看得我更畏惧讨厌制定计划了。对我来说，比较切实有用的还是: 1）列愿望清单 2）排优先级 3）靠自制力去执行。大多数情况因为没有自制力而以失败告终了。
+作为 P 人，今年希望看到自己的改变是稍微有计划些，能看到更多事情的实现，这样也会让一年变得充实而有意义些。但是看了一些书和文章，有关 goal setting 的理论眼花缭乱，看得我更畏惧制定计划了。对我来说，比较切实有用的还是: 1）列愿望清单 2）排优先级 3）靠自制力去执行。大多数情况因为没有自制力而以失败告终了。
 
 这篇文章推荐了三本书：
 >
@@ -23,7 +23,7 @@ background: '/img/posts/06.jpg'
 
 一本鲜活生动的职场自传小说。我看得津津有味，一口气读完。虽然经历不同，里面作者的很多感受也映射了我的感受，甚至也升华了我的经历。
 
-我原以为现在这个阶段我对工作已不再有激情，是一种 burned out 的状态。但读完这本小说，我发现自己现在不是不喜欢工作，而是不喜欢无聊的工作。坦白说，看到作者完成一个个激动人心的项目，感觉自己还是喜欢听到和看到令人振奋和有意思的 idea。而且看完后，我觉察到，心头涌上了熟悉的落寞：我依旧没有找到自己的职场。
+原以为现在这个阶段我对工作已不再有激情，是一种 burned out 的状态。但读完这本小说，我发现自己现在不是不喜欢工作，而是不喜欢无聊的工作。坦白说，看到作者完成一个个激动人心的项目，感觉自己还是喜欢听到和看到令人振奋和有意思的 idea。而且看完后，我觉察到，心头涌上了熟悉的落寞：我依旧没有找到自己的职场。
 
 - The UX Writing Portfolio
 
@@ -31,11 +31,11 @@ The UX Writing Portfolio 是 [*UX Writing: Designing User-Centered Content*]((ht
 
 - [斯坦福大学创业成长课](https://yd.qq.com/web/bookDetail/f8532b30718c77bcf857af1)
 
-创业这个词出现在我生活的频率越来越高了，大家在现下经济不景气的情况似乎都想尝试一下创业。刚好之前看过李笑来的《和时间做朋友》，觉得写得很好，顺便也就看看他写的这本书。这本书推荐了 Standford 的创业课，记录一下，[How to Start a Startup - A course Y Combinator taught at Stanford](https://www.ycombinator.com/library/carousel/How%20to%20Start%20a%20Startup%20-%20A%20course%20Y%20Combinator%20taught%20at%20Stanford).
+创业这个词出现在我生活的频率越来越高了，大家在经济不景气的情况下似乎都想尝试一下创业。刚好之前看过李笑来的《和时间做朋友》，觉得写得很好，顺便也就看看他写的这本书。这本书推荐了 Standford 的创业课，记录一下，[How to Start a Startup - A course Y Combinator taught at Stanford](https://www.ycombinator.com/library/carousel/How%20to%20Start%20a%20Startup%20-%20A%20course%20Y%20Combinator%20taught%20at%20Stanford).
 
-其实我在看国外这些课程和教程时，心中一直有个疑惑：这些方法论适合在国内开展吗，它真的适合中国本土的情况吗? 就像我刚毕业参加工作后开始看 Havard Business Review，内心常常一个大问号，HBR 的那套经营和管理理论，尤其是对员工的人文关怀，在国内一些企业看来可能文绉绉的，更多讲无条件服从。
+其实我在看国外这些课程和教程时，心中一直有个疑惑：这些方法论适合在国内开展吗，它真的适合中国本土的情况吗? 毕业参加工作后看 Havard Business Review，我内心常常疑惑，HBR 的那套经营和管理理论在国内一些人看来可能文绉绉的。
 
-我感觉，可能科技含量越高的企业，这些理论就越适用，因为一个生意科技含量越高，它越需要的是智慧，而不是人性和其它东西，所以这方面中外没啥差别，就看谁更聪明出奇兵，做得更好。而科技含量低的，更依赖人性和具体的市场，门槛低，内卷严重，这些理论就更像是纸面上的东西，束之高阁了。
+可能科技含量越高的企业，这些理论就越适用，因为一个生意科技含量越高，它越需要的是智慧，而不是人性和其它东西，所以这方面中外没啥差别，就看谁更聪明出奇兵，做得更好。而科技含量低的，更依赖人性和具体的市场，门槛低，内卷严重，这些理论就更像是纸面上的东西，束之高阁了。
 
 
 - [How a top Chinese AI model overcame US sanctions](https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/)
